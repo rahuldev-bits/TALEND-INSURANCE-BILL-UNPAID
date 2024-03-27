@@ -1,0 +1,242 @@
+Signature-Version: 1.0
+Created-By: Talend
+SHA-256-Digest-Manifest: NzbW8oJzpvBwvSg2wg4O2Ux0P/FJHbS0A3HbtVzxeBs=
+
+Name: TALEND_DEMO/TALEND_DEMO_run.bat
+SHA-256-Digest: WJfGemnLW29Kp5aih0CeIHwL5DNHJVS1HBQQrbnv4n4=
+
+Name: TALEND_DEMO/TALEND_DEMO_run.ps1
+SHA-256-Digest: 6Ht82gn1SuDzHlF1ewrnpBsk+8VsFmzGaxAdODAMfXQ=
+
+Name: TALEND_DEMO/TALEND_DEMO_run.sh
+SHA-256-Digest: XLfpcuqpGV5dnmw8SF73LhVJT4JAxLwAHl/Lo37NQvI=
+
+Name: TALEND_DEMO/bits/talend_demo_0_1/contexts/Default.properties
+SHA-256-Digest: QQiPvYLo3IU5elTvQflOL+vjNvg655wzA6A5VvhjvPo=
+
+Name: TALEND_DEMO/items/bits/.settings/migration_task.index
+SHA-256-Digest: vIVW9Iti1dHeGCGciuHP/dsebzXG4GwWVK5Ro39PJuA=
+
+Name: TALEND_DEMO/items/bits/.settings/project.settings
+SHA-256-Digest: sJKgx1EqQq1PedtmyhAXjcQeX16oV8zuKxmKdSJgSyk=
+
+Name: TALEND_DEMO/items/bits/.settings/relationship.index
+SHA-256-Digest: oGxoKOQXH4lPdmKJJQpo+m9kfgWKDmWWMqgj8vH4e/I=
+
+Name: TALEND_DEMO/items/bits/process/TALEND_DEMO_0.1.item
+SHA-256-Digest: 5bvJgeZeZIxhTAnur9p17WdXVWL5yUzJkV2iMsWI9l4=
+
+Name: TALEND_DEMO/items/bits/process/TALEND_DEMO_0.1.properties
+SHA-256-Digest: g3Ne1S6R0t2bv85pm1ewJRAG5m1RGjTPO3fcFYqlQQA=
+
+Name: TALEND_DEMO/items/bits/process/TALEND_DEMO_0.1.screenshot
+SHA-256-Digest: 5ds7u2mKy75uwCWQEOzhsiA8tC/SmI5MKJmKwunRzh4=
+
+Name: TALEND_DEMO/items/bits/talend.project
+SHA-256-Digest: D4TBnfuONTbI2XI9rOpAF3cAXkVW7iQqN2bwuu5cL5U=
+
+Name: TALEND_DEMO/log4j2.xml
+SHA-256-Digest: ZoTgQQ4dEn188N/h6MVrHh+k4ses8e/sdVd5FhFSZ8o=
+
+Name: TALEND_DEMO/src/main/java/bits/talend_demo_0_1/TALEND_DEMO.java
+SHA-256-Digest: I5sFVsKWglEl6FV5xJr54kWrmSTY6kENmsTvY4MKlH8=
+
+Name: TALEND_DEMO/src/main/resources/bits/talend_demo_0_1/contexts/Def
+ ault.properties
+SHA-256-Digest: bfB2qdW+BPeEIOdNmZelPnaFc8u0alfK7x13MdprU2Y=
+
+Name: TALEND_DEMO/talend_demo_0_1.jar
+SHA-256-Digest: OPYIqyF7jGrog9HjUU251Dg4v9ptfX9chr9dtiPumsg=
+
+Name: TALEND_DEMO/xmlMappings/mapping_access.xml
+SHA-256-Digest: AyGq/eB8D1wbwzvMZZuGdoXeLEpUyRkoX57CcQXzSw0=
+
+Name: TALEND_DEMO/xmlMappings/mapping_amazon_aurora.xml
+SHA-256-Digest: KPP2Sy75iNZuJONW+nRRlZZOS2Ri7JsyLe+9iumNNCY=
+
+Name: TALEND_DEMO/xmlMappings/mapping_as400.xml
+SHA-256-Digest: X79zgEun8avHCb1e02QaqRg24806e0pU+PdyikaU3OQ=
+
+Name: TALEND_DEMO/xmlMappings/mapping_bigquery.xml
+SHA-256-Digest: 9BDolHAkWq0lVpn2m+3TUuIdaK0OzgJaZFcluT6dri8=
+
+Name: TALEND_DEMO/xmlMappings/mapping_cassandra.xml
+SHA-256-Digest: 4d4CkOJGvZiZVExDG3Lm0s9tzmoY/qYMlCD+dwm5Opk=
+
+Name: TALEND_DEMO/xmlMappings/mapping_cassandra22_datastax.xml
+SHA-256-Digest: xquW7bkEz4Xs/rXt2CSSI3mqKp661JB9MSWRKJK3kH8=
+
+Name: TALEND_DEMO/xmlMappings/mapping_cassandra40_datastax.xml
+SHA-256-Digest: ZO/Ey8/13LKrUX8U36KJfipnRNhVFV2eVSJHwFc+23k=
+
+Name: TALEND_DEMO/xmlMappings/mapping_cassandra_datastax.xml
+SHA-256-Digest: xwtS8q+lBPnq/TAH3R+0T/oGbRPXECi0T8OENFUn5EM=
+
+Name: TALEND_DEMO/xmlMappings/mapping_databricks_delta_lake.xml
+SHA-256-Digest: CxsutjPYPMJduxAjXXRCOGZ8USWpge0SA4rD1M9gUnU=
+
+Name: TALEND_DEMO/xmlMappings/mapping_dynamodb.xml
+SHA-256-Digest: JYHt5VXAhAQWHYzJ+yM3UwKaNpIp2gjE++0BpMCdWeI=
+
+Name: TALEND_DEMO/xmlMappings/mapping_ebcdic.xml
+SHA-256-Digest: RV687DpAlTAYeJKERhLl13Ym3uUT1N0HrbGXSpcB7lo=
+
+Name: TALEND_DEMO/xmlMappings/mapping_exasol.xml
+SHA-256-Digest: eJ01TIAVW/5lB0T58SzCJeyxzAtWrkzoXcvqVtSB3OE=
+
+Name: TALEND_DEMO/xmlMappings/mapping_firebird.xml
+SHA-256-Digest: wal+5xCVAmjhEjPv8ptZyRj3+QgYfbR+l1kR0f3dGeE=
+
+Name: TALEND_DEMO/xmlMappings/mapping_greenplum.xml
+SHA-256-Digest: kjmXR6izZ1FbZKbDlqR8G/+kdOMW2BsD4GtvDLmHcIs=
+
+Name: TALEND_DEMO/xmlMappings/mapping_h2.xml
+SHA-256-Digest: rkWO33hNgOHzGY3Z0gcIc3B7Qll3x/53X8LMpOczDxs=
+
+Name: TALEND_DEMO/xmlMappings/mapping_hive.xml
+SHA-256-Digest: AffCysku4nslk3KjkGM7vtThx2Ze95yFM8sru/f8X5g=
+
+Name: TALEND_DEMO/xmlMappings/mapping_hsqldb.xml
+SHA-256-Digest: K4OGs8Vk/esLWyH1eYDZA2pqMb3CfGejJSJVzwtZubQ=
+
+Name: TALEND_DEMO/xmlMappings/mapping_ibmdb2.xml
+SHA-256-Digest: UaW1JPaHqfi+45dIn8CGzoo9eW9/B8llvPrbHqSrQB4=
+
+Name: TALEND_DEMO/xmlMappings/mapping_impala.xml
+SHA-256-Digest: DJWgWZo4r6V/iCWSjEhuYghOh+TMD56YkaqiO5jIQeM=
+
+Name: TALEND_DEMO/xmlMappings/mapping_informix.xml
+SHA-256-Digest: JxVUzMT3R82B2YqbH3SgKniP1WsZuwe/8h3k8ZkC/+g=
+
+Name: TALEND_DEMO/xmlMappings/mapping_ingres.xml
+SHA-256-Digest: z2iMBiJviqxnI0QZO0+Z08VRgHytbRHbU4/2WFkrEGI=
+
+Name: TALEND_DEMO/xmlMappings/mapping_javadb.xml
+SHA-256-Digest: su6fTnqJXzcGZppui3R8XwRmC9etQSr9W8B5qlH+rk4=
+
+Name: TALEND_DEMO/xmlMappings/mapping_maxdb.xml
+SHA-256-Digest: ZQ44KdKluDeBLsVWUJaUtZBmRyyOGtyNhzRdsqOHrUU=
+
+Name: TALEND_DEMO/xmlMappings/mapping_mscrm.xml
+SHA-256-Digest: du6lsfzbu+hvOSsK8gWQm0ePBUqO3CgzpxNdaQCycHo=
+
+Name: TALEND_DEMO/xmlMappings/mapping_mscrm_odata.xml
+SHA-256-Digest: oBKQFobfPsGE0tXcsYKUMnFpEdlNqSK3a2cUzIvEqYU=
+
+Name: TALEND_DEMO/xmlMappings/mapping_msodbc.xml
+SHA-256-Digest: fOlul5jn9kBh29CJn/v6/5Ob3wiauJkqcpGiEnowAKM=
+
+Name: TALEND_DEMO/xmlMappings/mapping_mssql.xml
+SHA-256-Digest: KZfGzjAPM7Vb59WXyL9/HmUcoLTbJGWtaHTnd2ueP7k=
+
+Name: TALEND_DEMO/xmlMappings/mapping_mysql.xml
+SHA-256-Digest: 2DQIo8vlSOzq3/Aeugeu1mO7k9Txx4e0P3sCY3szHps=
+
+Name: TALEND_DEMO/xmlMappings/mapping_netezza.xml
+SHA-256-Digest: deWZ9vBJqtU0kJFh2+d3xeA5CpYlJLxkdp4Zrm5w5cE=
+
+Name: TALEND_DEMO/xmlMappings/mapping_oracle.xml
+SHA-256-Digest: GRB1j9mgZtOGg+3nFDBX+i+oLPGErQbl3vcydbxaIZE=
+
+Name: TALEND_DEMO/xmlMappings/mapping_postgres.xml
+SHA-256-Digest: 8j5NzGxqw9FiPo1dNpEIrPoD3DHy54ykLUC2ZOrkTiQ=
+
+Name: TALEND_DEMO/xmlMappings/mapping_postgresplus.xml
+SHA-256-Digest: 4eBCyEzDECouPYVZQ+XTx4AwUu8OIMt4y6JbJWLgcLI=
+
+Name: TALEND_DEMO/xmlMappings/mapping_redshift.xml
+SHA-256-Digest: /XN7daR91dpX8gZjMWbIc6NoZGyz2Knyu5NUl1wURBw=
+
+Name: TALEND_DEMO/xmlMappings/mapping_sap.xml
+SHA-256-Digest: Za1AfSdcgTp96pgCDZlV65iWueQzR0EYmEYHrVZB504=
+
+Name: TALEND_DEMO/xmlMappings/mapping_saphana.xml
+SHA-256-Digest: q0V/FhhopTLbxnbMzNs77DMfuOt2bJiLu3C5qWwz25s=
+
+Name: TALEND_DEMO/xmlMappings/mapping_singlestore.xml
+SHA-256-Digest: bUvXBjD0Kh26Mc3wB+Ls8nsxAQVq+hfty2qySlqpEMQ=
+
+Name: TALEND_DEMO/xmlMappings/mapping_snowflake.xml
+SHA-256-Digest: vh4yQF+tipqlpDZW24NZD4KYV+AN2zLgatucMH+dupA=
+
+Name: TALEND_DEMO/xmlMappings/mapping_sqlite.xml
+SHA-256-Digest: Ee2gYW/6kT0bCYgGGHnKjAgT5gSLDnFHHA+y+OMwsCA=
+
+Name: TALEND_DEMO/xmlMappings/mapping_sybase.xml
+SHA-256-Digest: o0rKbV/eN47gc93HFOCWyHF6n4G+QsqdrrpVpNJoKcQ=
+
+Name: TALEND_DEMO/xmlMappings/mapping_teradata.xml
+SHA-256-Digest: 7izPItEA1nlqWPh7Cg39bJGGZCL70JqBGm+WMvxtRrg=
+
+Name: TALEND_DEMO/xmlMappings/mapping_vectorwise.xml
+SHA-256-Digest: 7W6CZePqGRLGaOrYgkX8qgSu3NjDAzjn74v2duTYxow=
+
+Name: TALEND_DEMO/xmlMappings/mapping_vertica.xml
+SHA-256-Digest: KPo78V3vhfk9ilxdc1XLGLljdlb1kjQvoBij8ujynsE=
+
+Name: TALEND_DEMO/xmlMappings/mapping_xsd.xml
+SHA-256-Digest: NbuXIPV+G0OKYWk5tbDDeI+Z5sFea6pUxmg9ybanimM=
+
+Name: jobInfo.properties
+SHA-256-Digest: scfTPDj23pj03fx671P5+EspUPSviT4BT8MS+pxf5Lo=
+
+Name: lib/accessors-smart-2.4.11.jar
+SHA-256-Digest: mAsojjfjfZSDCETguj/FXRjZ4ee1nbGfKpaylN6aMg8=
+
+Name: lib/asm-9.5.jar
+SHA-256-Digest: vZ4z7XvKDgeXyHAR5w83Jtlfkk+L0YqIzT79prsE+o4=
+
+Name: lib/audit-common-1.16.1.jar
+SHA-256-Digest: FQuuUiYHA0gEURFZrmZ2mo8m4B3YW+8fShAoPvmGdiU=
+
+Name: lib/audit-log4j2-1.16.1.jar
+SHA-256-Digest: Dhj4qkl+mvE2JNQg2nP4Eb+199h29mDForJ1zPFX/80=
+
+Name: lib/commons-lang3-3.10.jar
+SHA-256-Digest: s3vGmUZh2KjXnSOEINC9xgZqfUFD8YcTmRiJTUOqOwY=
+
+Name: lib/crypto-utils-7.1.16.jar
+SHA-256-Digest: yGR3a61tlCUVA/vS1K3dLdeaQ8zFADFGkxvrFoUAgU4=
+
+Name: lib/dom4j-2.1.3.jar
+SHA-256-Digest: hVq9Z6Oy5qkbp58JPqAOGcNVyYigCCt866KPyOXyviM=
+
+Name: lib/jboss-marshalling-2.0.12.Final.jar
+SHA-256-Digest: b3LXANpfoCBhNp9btNWKzYfaxehJi8gHUrKmO8ntz08=
+
+Name: lib/job-audit-1.5.jar
+SHA-256-Digest: bY9zVyNHyHI97W+LQPVcEmXkV9qtLT07vlkdpazQX/k=
+
+Name: lib/json-smart-2.4.11.jar
+SHA-256-Digest: Xx9P3X2FmN8q/MUaPj0BQ9Jd+XVCXh8WLHYsrfsQFWQ=
+
+Name: lib/log4j-api-2.17.1.jar
+SHA-256-Digest: JvLoY5sLco/BURcgNHgMG3mxEKdLtkFa8AAT6sHmNSE=
+
+Name: lib/log4j-core-2.17.1.jar
+SHA-256-Digest: cRa1qIo4eCqb6oqTCZVXjwCXQLpDs22oDt4cKy+sL+Y=
+
+Name: lib/log4j-slf4j-impl-2.17.1.jar
+SHA-256-Digest: wYAxcQW4j0UyuzKkiSCofD9b0iNke437JY/J2gMPQGo=
+
+Name: lib/logging-event-layout-1.16.1.jar
+SHA-256-Digest: PmSobk+tlNUL4BWA7aGX41BTalsqdspLShVh2mrBjTE=
+
+Name: lib/mssql-jdbc-actual.jar
+SHA-256-Digest: bhhZSsHHQE6h6Ft5bqznV8PmSJNKP3GcSFp5MPef9pM=
+
+Name: lib/routines.jar
+SHA-256-Digest: zT1z6MLIsbRAPJopqi3F5NRaCMUBa05arxhV1qzYXDw=
+
+Name: lib/slf4j-api-1.7.34.jar
+SHA-256-Digest: 2fzPVn2vSu4g16vvXXcZwPtmO8I1jKKjmNxulXSj3rs=
+
+Name: lib/talend_DB_mssqlUtil-1.4.jar
+SHA-256-Digest: 6xNyKextx/50ueH+UaoN4msemur9gBQ7IWk2L7KYMPc=
+
+Name: lib/talend_file_enhanced-1.3.jar
+SHA-256-Digest: BLB9MR1wmEPAGe1TsW8xqQV48QXTK02rHBEB9Q6clIQ=
+
+Name: lib/talendcsv-1.1.0.jar
+SHA-256-Digest: QrVTJqlts0vhIpu+wYey6Ug8H0pZJYqZrObWFK2XVA0=
+
